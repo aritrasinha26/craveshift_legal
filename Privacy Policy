@@ -1,0 +1,92 @@
+# Privacy Policy for CraveShift
+
+**Last Updated: [DATE]**
+
+## Introduction
+
+CraveShift ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
+### Information You Provide
+- **Account Information**: Name (optional, during onboarding)
+- **Food Scans**: Images of food you scan and the analysis results
+- **Usage Data**: Your scanning history, preferences, and app interactions
+
+### Automatically Collected Information
+- **Device Information**: Device type, operating system version
+- **Usage Statistics**: App usage patterns, feature interactions
+- **Crash Reports**: Technical data to help us fix issues
+
+### Third-Party Services
+We use the following third-party services:
+
+1. **OpenAI**: We send food images and names to OpenAI's API for analysis. OpenAI processes this data according to their [Privacy Policy](https://openai.com/privacy).
+
+2. **RevenueCat**: For subscription management. See their [Privacy Policy](https://www.revenuecat.com/privacy).
+
+3. **Supabase**: For secure API proxying. See their [Privacy Policy](https://supabase.com/privacy).
+
+## How We Use Your Information
+
+- To provide and improve our food analysis features
+- To personalize your experience and insights
+- To process your subscription and payments
+- To communicate with you about the app
+- To detect and prevent fraud or abuse
+
+## Data Storage and Security
+
+- Your data is stored locally on your device using secure storage
+- We use encryption for data transmission
+- We do not sell your personal information to third parties
+
+## Your Rights
+
+You have the right to:
+- Access your personal data
+- Delete your data (through the app's reset feature)
+- Opt out of certain data collection
+- Request a copy of your data
+
+## Children's Privacy
+
+CraveShift is not intended for children under 13. We do not knowingly collect information from children under 13.
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy in the app.
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us at:
+
+**Email**: [YOUR_EMAIL]
+**Website**: [YOUR_WEBSITE]
+
+---
+
+## Data Safety Form (Google Play)
+
+For Google Play's Data Safety form, here's what to disclose:
+
+### Data Types Collected
+| Data Type | Collected | Shared | Purpose |
+|-----------|-----------|--------|---------|
+| Name | Optional | No | Personalization |
+| Photos (food images) | Yes | With OpenAI | App functionality |
+| App interactions | Yes | No | Analytics |
+| Crash logs | Yes | No | App stability |
+| Purchase history | Yes | With RevenueCat | Subscription |
+
+### Data Handling
+- Data is encrypted in transit: **Yes**
+- Users can request data deletion: **Yes**
+- Data is processed ephemerally: **No** (stored locally)
+
+### Data Sharing
+- Food images are shared with OpenAI for analysis
+- Purchase data is shared with RevenueCat for subscription management
+
+
+
