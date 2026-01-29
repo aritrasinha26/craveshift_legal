@@ -1,6 +1,6 @@
 # Terms of Service for CraveShift
 
-**Last Updated: 08-12-2025
+**Last Updated: January 29, 2026**
 
 ## 1. Acceptance of Terms
 
@@ -13,6 +13,8 @@ CraveShift is a mobile application that:
 - Provides educational information about nutrition and food science
 - Offers personalized insights and recommendations
 - Tracks your food scanning history
+
+This App is an educational tool and does not provide medical advice, diagnosis, or treatment.
 
 ## 3. Subscriptions
 
@@ -32,16 +34,33 @@ CraveShift is a mobile application that:
 - Monthly: $7.99/month
 - Annual: $29.99/year
 
+Prices may vary by region and are subject to change. The applicable price will be displayed before purchase.
+
 ### 3.4 Billing
-- Payment is charged to your Google Play account
-- Subscriptions auto-renew unless cancelled 24 hours before the end of the current period
-- You can manage subscriptions in your Google Play account settings
+
+**For iOS (Apple App Store):**
+- Payment is charged to your Apple ID account at confirmation of purchase
+- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- You can manage and cancel subscriptions in your App Store account settings
+
+**For Android (Google Play):**
+- Payment is charged to your Google Play account at confirmation of purchase
+- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
+- You can manage and cancel subscriptions in your Google Play account settings
 
 ### 3.5 Free Trial
-- New subscribers may receive a 7-day free trial
-- You will be charged at the end of the trial unless you cancel
+- New subscribers may receive a free trial period
+- If you do not cancel before the trial ends, you will be automatically charged the subscription price
+- Any unused portion of a free trial will be forfeited when you purchase a subscription
 
 ### 3.6 Refunds
+
+**For iOS:**
+- Refund requests are handled through Apple. Visit https://reportaproblem.apple.com
+- We comply with Apple's refund policies
+
+**For Android:**
 - Refund requests are handled through Google Play
 - We comply with Google Play's refund policies
 
@@ -50,8 +69,9 @@ CraveShift is a mobile application that:
 You agree to:
 - Provide accurate information
 - Use the App only for lawful purposes
-- Not attempt to reverse engineer the App
-- Not use the App to harm others
+- Not attempt to reverse engineer, decompile, or disassemble the App
+- Not use the App to harm others or for any illegal activity
+- Not share your account with others
 
 ## 5. Disclaimer
 
@@ -59,56 +79,94 @@ You agree to:
 CraveShift provides educational information only. It is NOT:
 - Medical advice
 - Nutritional counseling
+- Diagnosis or treatment of any condition
 - A substitute for professional healthcare
 
-Always consult a healthcare provider for medical decisions.
+Always consult a qualified healthcare provider before making any health-related decisions. Do not disregard professional medical advice based on information from this App.
 
 ### 5.2 Accuracy
 While we strive for accuracy, we cannot guarantee:
 - The accuracy of AI-generated analysis
-- That the information applies to your specific situation
+- That the information applies to your specific health situation
 - That results will be consistent across all foods
+- That the App will be error-free or uninterrupted
+
+The App uses artificial intelligence which may produce varying results.
 
 ## 6. Limitation of Liability
 
-To the maximum extent permitted by law:
-- We are not liable for any indirect, incidental, or consequential damages
-- Our total liability is limited to the amount you paid for the App in the past 12 months
-- We are not responsible for decisions you make based on App information
+To the maximum extent permitted by applicable law:
+- We are not liable for any indirect, incidental, special, or consequential damages
+- Our total liability is limited to the amount you paid for the App in the past 12 months, or $50, whichever is greater
+- We are not responsible for any health decisions you make based on App information
+- We are not liable for any harm resulting from your use of or inability to use the App
 
 ## 7. Intellectual Property
 
-- The App and its content are owned by us
-- You may not copy, modify, or distribute the App
+- The App, including all content, features, and functionality, is owned by CraveShift and protected by intellectual property laws
+- You may not copy, modify, distribute, sell, or lease any part of the App
+- You may not reverse engineer or attempt to extract the source code
 - You retain ownership of your personal data
 
-## 8. Termination
+## 8. Third-Party Services
 
-We may terminate or suspend your access if you:
+The App may use third-party services including:
+- OpenAI for AI-powered analysis
+- RevenueCat for subscription management
+- Analytics services
+
+Your use of these services is subject to their respective terms and privacy policies.
+
+## 9. Termination
+
+We may terminate or suspend your access immediately, without prior notice, if you:
 - Violate these Terms
 - Engage in fraudulent activity
-- Abuse the service
+- Abuse the service or other users
+- Use the App for illegal purposes
 
-## 9. Changes to Terms
+Upon termination, your right to use the App will cease immediately.
 
-We may update these Terms at any time. Continued use of the App after changes constitutes acceptance of the new Terms.
+## 10. Changes to Terms
 
-## 10. Governing Law
+We reserve the right to update these Terms at any time. We will notify you of significant changes by:
+- Posting the new Terms in the App
+- Updating the "Last Updated" date
 
-These Terms are governed by the laws of the Republic of Ireland.
+Your continued use of the App after changes constitutes acceptance of the new Terms.
 
-## 11. Contact
+## 11. Governing Law and Disputes
 
-For questions about these Terms:
+These Terms are governed by the laws of the Republic of Ireland, without regard to its conflict of law provisions.
 
-**Email**: aritrasinha26@gmail.com
+Any disputes arising from these Terms or your use of the App shall be resolved through binding arbitration, except where prohibited by law.
+
+## 12. Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in full effect.
+
+## 13. Entire Agreement
+
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and CraveShift regarding use of the App.
+
+## 14. Contact Us
+
+For questions, concerns, or requests regarding these Terms:
+
+**Support:** https://craveshiftsupport.netlify.app/  
+**Email:** aritrasinha26@gmail.com
 
 ---
 
-## Summary for Users
+## Quick Summary for Users
 
-- **Free users**: 3 scans/day, 10 total lifetime
-- **Premium**: Unlimited everything, cancel anytime
-- **Refunds**: Through Google Play
-- **Not medical advice**: Educational only
-- **Your data**: You own it, we protect it
+| Topic | Details |
+|-------|---------|
+| **Free users** | 3 scans/day, 10 total lifetime |
+| **Premium** | Unlimited everything, cancel anytime |
+| **Billing** | Through App Store (iOS) or Google Play (Android) |
+| **Refunds** | Through your app store |
+| **Medical advice** | No — educational only |
+| **Your data** | You own it, we protect it |
+| **Cancel** | Anytime in your app store settings |
+| **Support** | https://craveshiftsupport.netlify.app/ |
