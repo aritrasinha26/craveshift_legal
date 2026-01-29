@@ -1,92 +1,95 @@
-# Privacy Policy for CraveShift
+Privacy Policy for CraveShift
 
-**Last Updated: 08-12-2025
+Last Updated: January 29, 2026
 
-## Introduction
-
+Introduction
 CraveShift ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
-## Information We Collect
+Information We Collect
 
-### Information You Provide
-- **Account Information**: Name (optional, during onboarding)
-- **Food Scans**: Images of food you scan and the analysis results
-- **Usage Data**: Your scanning history, preferences, and app interactions
+Information You Provide
+•	Account Information: Name (optional, during onboarding)
+•	Food Scans: Images of food you scan and the analysis results
+•	Usage Data: Your scanning history, preferences, and app interactions
+•	Subscription Information: Purchase history and subscription status (managed through RevenueCat)
 
-### Automatically Collected Information
-- **Device Information**: Device type, operating system version
-- **Usage Statistics**: App usage patterns, feature interactions
-- **Crash Reports**: Technical data to help us fix issues
+Automatically Collected Information
+•	Device Information: Device type, operating system version, device identifiers
+•	Usage Statistics: App usage patterns, feature interactions, scan frequency
+•	Crash Reports: Technical data to help us fix issues and improve app stability
+•	Camera Access: We access your device's camera only when you actively choose to scan food. Images are processed immediately and not stored on our servers.
 
-### Third-Party Services
+Permissions We Request
+Our app requests the following permissions:
+1.	Camera Permission: Required to scan food images. We only access your camera when you actively use the scan feature. Images are processed and analyzed but not stored on our servers.
+2.	Notification Permission: Optional, for sending helpful reminders about tracking cravings and insights about your food patterns. You can disable notifications at any time in your device settings.
+
+Third-Party Services
 We use the following third-party services:
+1.	OpenAI: We send food images and names to OpenAI's API for analysis. OpenAI processes this data according to their Privacy Policy. Food images are processed temporarily and not stored by OpenAI for training purposes.
+2.	RevenueCat: For subscription management and payment processing. RevenueCat collects purchase history and subscription status. See their Privacy Policy.
+3.	Supabase: For secure API proxying to protect API keys. Supabase processes requests but does not store your food images or personal data. See their Privacy Policy.
 
-1. **OpenAI**: We send food images and names to OpenAI's API for analysis. OpenAI processes this data according to their [Privacy Policy](https://openai.com/privacy).
+How We Use Your Information
+•	To provide and improve our food analysis features
+•	To personalize your experience and insights
+•	To process your subscription and payments
+•	To communicate with you about the app (via notifications, if enabled)
+•	To detect and prevent fraud or abuse
+•	To fix bugs and improve app performance
 
-2. **RevenueCat**: For subscription management. See their [Privacy Policy](https://www.revenuecat.com/privacy).
+Data Storage and Security
+•	Local Storage: Your data (scan history, preferences, progress) is stored locally on your device using secure storage (AsyncStorage). This data never leaves your device unless you choose to share it.
+•	Data Transmission: We use encryption (HTTPS/TLS) for all data transmission
+•	Third-Party Data: Food images sent to OpenAI are processed temporarily and not stored by OpenAI for training or other purposes
+•	No Data Sales: We do not sell your personal information to third parties
+•	No Advertising: We do not use advertising networks or track you across other apps
 
-3. **Supabase**: For secure API proxying. See their [Privacy Policy](https://supabase.com/privacy).
+Data Retention
+•	Local Data: Your data is stored on your device until you delete it using the app's reset feature
+•	Third-Party Services:
+•	OpenAI: Food images are processed temporarily and not retained
+•	RevenueCat: Retains subscription data as required for subscription management (subject to their privacy policy)
+•	Supabase: Does not store your personal data
 
-## How We Use Your Information
-
-- To provide and improve our food analysis features
-- To personalize your experience and insights
-- To process your subscription and payments
-- To communicate with you about the app
-- To detect and prevent fraud or abuse
-
-## Data Storage and Security
-
-- Your data is stored locally on your device using secure storage
-- We use encryption for data transmission
-- We do not sell your personal information to third parties
-
-## Your Rights
-
+Your Rights
 You have the right to:
-- Access your personal data
-- Delete your data (through the app's reset feature)
-- Opt out of certain data collection
-- Request a copy of your data
+•	Access: View all data stored in the app (accessible through the app interface)
+•	Delete: Delete all your data at any time using the "Reset All Progress" feature in the app's Profile section
+•	Opt Out: Disable notifications in your device settings
+•	Request Data: Contact us to request a copy of your data
+•	Data Portability: Export your scan history (available through the app)
 
-## Children's Privacy
+Data Deletion
+You can delete all your data at any time:
+1.	Open the Profile screen in the app
+2.	Tap "Reset All Progress"
+3.	Confirm the deletion
 
-CraveShift is not intended for children under 13. We do not knowingly collect information from children under 13.
+This will immediately and permanently delete:
+•	All food scan history
+•	Your name and preferences
+•	Progress data (knowledge points, levels)
+•	Streak data
+•	Cached analysis data
+•	All insights and patterns
+Note: Subscription data managed by RevenueCat may be retained according to their privacy policy. To cancel subscriptions, use your app store account settings.
 
-## Changes to This Policy
+Children's Privacy
+CraveShift is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
+International Data Transfers
+Your data may be processed and stored in countries outside your country of residence. Specifically:
+•	OpenAI processes data in accordance with their global operations
+•	RevenueCat processes subscription data globally
+•	Supabase processes API requests globally
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy in the app.
-
-## Contact Us
-
-If you have questions about this Privacy Policy, please contact us at:
-
-**Email**: aritrasinha26@gmail.com
-
-
----
-
-## Data Safety Form (Google Play)
-
-For Google Play's Data Safety form, here's what to disclose:
-
-### Data Types Collected
-| Data Type | Collected | Shared | Purpose |
-|-----------|-----------|--------|---------|
-| Name | Optional | No | Personalization |
-| Photos (food images) | Yes | With OpenAI | App functionality |
-| App interactions | Yes | No | Analytics |
-| Crash logs | Yes | No | App stability |
-| Purchase history | Yes | With RevenueCat | Subscription |
-
-### Data Handling
-- Data is encrypted in transit: **Yes**
-- Users can request data deletion: **Yes**
-- Data is processed ephemerally: **No** (stored locally)
-
-### Data Sharing
-- Food images are shared with OpenAI for analysis
-- Purchase data is shared with RevenueCat for subscription management
-
-
-
+All third-party services we use maintain appropriate safeguards for international data transfers.
+Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+•	Updating the "Last Updated" date at the top of this policy
+•	Posting a notice in the app (if significant changes occur)
+Your continued use of the app after changes constitutes acceptance of the updated policy.
+Contact Us
+If you have questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at:Email: aritrasinha26@gmail.com
+Website: https://aritrasinha26.github.io/craveshift_legal/
+We will respond to your inquiry within 30 days.
